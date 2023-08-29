@@ -11,5 +11,3 @@ Oh, so you're curious about how many people have actually seen this repo? Not th
 ![](https://count.getloli.com/get/@KayllonDouglas.github.readme)
 
 Yeah, yeah, I know, it's a lame little counter, but if it makes you happy, go ahead and stare at it. Whatever floats your boat.
-
-So, that's the deal with this repo. Feel free to take a peek around, but don't expect anything groundbreaking.
