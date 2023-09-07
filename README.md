@@ -1,4 +1,4 @@
-# Hey there, Kayllon Douglas here! 👋
+# Hey there, Kurumizawah here! 👋
 
 So, you stumbled upon my little corner of GitHub, huh? Don't get too excited, it's not like I'm expecting much attention. Anyway, let's get down to business.
 
